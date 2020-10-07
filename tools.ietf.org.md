@@ -30,6 +30,8 @@
 
 ## Validate XML input for XML2RFC (Bill Fenner)
 
+## rfc2629.xslt: reference checker (Julian Reschke)
+
 # Preprocessors
 
 ## Write RFCs using wiki-style markup ('markdown') (Miek Gieben)
@@ -41,6 +43,14 @@
 ## Convert nroff for drafts and RFCs to RFC2629 format XML (Tomek Mrugalski)
 
 # Extractors
+
+## rfc2629.xslt: artwork/sourcecode extractor (Julian Reschke)
+
+## Extract code from RFCs and drafts (Martin Bjorklund)
+
+## Sean's SUPER Regular Expression-Based ABNF Extractor (Sean Leonard)
+
+## Extract ABNF from a document (Bill Fenner)
 
 # Reference File Support
 
