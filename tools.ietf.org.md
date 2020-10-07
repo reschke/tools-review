@@ -2,9 +2,13 @@
 
 ## xml2rfc (Henrik Levkowetz)
 
+## rfc2629.xslt: HTML, PDF, or ePub from XML source (Julian Reschke)
+
 # Examples/Templates
 
 ## Templates for xml2rfc work (Elwyn Davies)
+
+## Templates for MIB Documents (David B. Harrington)
 
 # Editing
 
@@ -16,14 +20,21 @@
 
 ## A configuration for editing xml2rfc-format documents in XXE (Bill Fenner, Warren Kumari)
 
-# Validators
+# Validators/Checkers
 
 ## RFC dependency checker (Joe Touch)
 
+## Check internet-drafts for submission nits (Henrik Levkowetz)
+
+## Run a spelling-check on your internet-draft (Henrik Levkowetz)
+
+## Validate XML input for XML2RFC (Bill Fenner)
 
 # Preprocessors
 
 ## Write RFCs using wiki-style markup ('markdown') (Miek Gieben)
+
+## Write RFCs using asciidoc markup (Ronald Tse)
 
 ## Writing Internet-Drafts using Microsoft Word (Joe Touch)
 
@@ -47,3 +58,8 @@
 
 ## License File for Open Source Repositories (IESG)
 
+## Fix document spacing (Henrik Levkowetz)
+
+## Draft Diff Tool (Henrik Levkowetz)
+
+## Add bcp14 markup to XML draft source (Joe Touch)
